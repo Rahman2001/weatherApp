@@ -1,6 +1,3 @@
-[submodule "dataLogic"]
-	path = dataLogic
-	url = https://github.com/Rahman2001/dataLogic.git
 [submodule "web"]
 	path = web
 	url = https://github.com/Rahman2001/web.git
