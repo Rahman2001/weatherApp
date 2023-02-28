@@ -26,7 +26,7 @@ The motivation in this project is to learn builing multimodular application that
 </br></br></br>
 ## Web Module
 ### Description 
-This module is responsible for UI and user interactions only. Through this module, users can view weather forecasts and make a request for a particular city's weather forecast.
+This module is responsible for UI and it is for user interactions only. Through this module, users can view weather forecasts and make a request for a particular city's weather forecast.
 Although the UI is not implemented yet, it is possible to make request through Postman. 
 ### Link to module :  See [Web Module](https://github.com/Rahman2001/web/tree/fbb1c3c05222f02b9045884bb289320728ff0d15)
 </br></br>
