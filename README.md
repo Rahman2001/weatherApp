@@ -11,11 +11,11 @@ The motivation in this project is to learn builing multimodular application that
 - [x] Making database to automatically self - update/insert data to keep weather data fresh
 - [x] Doing appropriate tests (integration test) on application components
 
-### Solution used for each challenge:
+### Solutions used for each challenge respectively:
 - [x] Reading official documentations, analysing other developers' solutions and implemenations
 - [x] Getting familiar with some design patterns for 'Clean Code' and understanding logic behind them
 - [x] Analysing other developers' solution and implementing `CompletableFuture` API 
-- [x] Using `SchedulingConfigurer` interface to dynamically schedule database operations in which it invokes internal `HTTP` clients to get weather data from external source after which it updates or/and inserts those data into database
+- [x] Using `SchedulingConfigurer` interface to dynamically schedule database operations in which it invokes internal `HTTP` clients to get weather data from external source after which database updates or/and insertes those data.
 - [x] Could do integration tests by understanding the concept of this test
 
 ### Technologies used : Retrofit, OkHttp client, Flyway Migration Tool
